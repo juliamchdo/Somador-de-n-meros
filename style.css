@@ -1,0 +1,15 @@
+<style>
+        body{
+            font: normal 16pt Arial;
+            background-color: cadetblue;
+            color: white;
+        }
+        input{
+            font: normal 12pt Arial;
+            width: 80px;
+            
+        }
+        div#res{
+            margin-top: 20px;
+        }
+    </style>
